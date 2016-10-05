@@ -1,8 +1,18 @@
-# Environment #
+# Working Procedure #
 
-### VIM ###
-* .vimrc file
-   * [Location](http://stackoverflow.com/questions/10921441/where-is-my-vimrc-file/34005877#34005877) of file
-   * [Example file](https://gist.github.com/joegoggins/8482408)
-   * [Tabs and Spaces](http://vimcasts.org/episodes/tabs-and-spaces/) explanation
+## Git ##
+* Version Control
+* [GitHub](https://github.com)
+* [Bitbucket](https://bitbucket.org)
 
+## [Trello](https://trello.com) ##
+* Project organization
+
+## [Evernote](https://evernote.com) ##
+* Note taking
+
+## [Slack](https://slack.com) ##
+* Communication tool
+
+## [Coggle](https://coggle.it) ##
+* Mind Maps 
