@@ -1,7 +1,6 @@
 # Working Procedure #
 
-### Git ###
-* Version Control
+### Git - Version Control ###
 * [GitHub](https://github.com)
 * [Bitbucket](https://bitbucket.org)
 
